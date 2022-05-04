@@ -37,11 +37,11 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 
 <b>[A Fully Memristive Spiking Neural Network with Unsupervised Learning](https://arxiv.org/abs/2203.01416)</b> <br> 
 <b>Peng Zhou,</b> Donguk Choi, Jason K. Eshraghian, and Sung-Mo Kang.
-<i> IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2022.</b>.
+<i> IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2022</b>.
 
 <b>[Towards Real-Time Machine Learning for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9507937)</b> <br> 
 <b>Peng Zhou</b>, and Shiva Abbaszadeh.
-<i> IEEE Nuclear Science Symposium and Medical Imaging Conference</i>. <b>NSS/MIC 2020.</b>.
+<i> IEEE Nuclear Science Symposium and Medical Imaging Conference</i>. <b>NSS/MIC 2020</b>.
 
 ## Patents
 <b>[Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
