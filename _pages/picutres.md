@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "More"
+title: "Pictures"
 permalink: /pictures/
 author_profile: true
 ---
