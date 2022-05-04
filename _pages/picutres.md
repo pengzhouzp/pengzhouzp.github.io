@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "More"
-permalink: /more/
+permalink: /pictures/
 author_profile: true
 ---
 
