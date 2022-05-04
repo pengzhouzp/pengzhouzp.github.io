@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Journal Paper
+## Journal Paper
 <b>[How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal Generation](https://ieeexplore.ieee.org/document/9618724)</b> <br> 
 Sung Mo Kang, Donguk Choi, Jason K. Eshraghian, <b>Peng Zhou</b>, Jieun Kim, Bai Sun Kong, Xiaojian Zhu, Ahmet Samil Demirkol, Alon Ascoli, Ronald Tetzlaff, Wei D. Lu, and Leon O. Chua
 <i>IEEE Transactions on Circuits and Systems–I: Regular Papers, Nov 2021.</i>.
@@ -30,7 +30,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>Peng Zhou</b>, Jieun Kim, Donguk Choi, Sung-Mo Kang, and Bai Sun Kong.
 <i>In preparation.</i>
 
-# Conference Papers
+## Conference Papers
 <b>[SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br> 
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
 <i>Available in arVix.</i>
@@ -43,7 +43,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>Peng Zhou</b>, and Shiva Abbaszadeh.
 <i> IEEE Nuclear Science Symposium and Medical Imaging Conference</i>. <b>NSS/MIC 2020.</b>.
 
-# Patents
+## Patents
 <b>[Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
 <b>Peng Zhou</b>, Yannan Xing, Ning Qiao, Yudi Ren, Zheng Ke, Yanlun Hu, Bo Li, Yuhang Liu, Xiwen Gong, Sadique Sheik, Dylan Richard Muir
 
