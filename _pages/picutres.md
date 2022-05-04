@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "More"
+permalink: /more/
+author_profile: true
+---
+
 During this unprecedented Covid-19 period, we are just working from home, 
 wearing a mask everywhere, not talking with family and friends quite much, 
 becoming less efficient and lazy, using phones and watching TV quite often, pretty isolated and lonely. 
