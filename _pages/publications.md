@@ -22,7 +22,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
 <i>In preparation.</i>
 
-<b>[Global Rrror Modulated STDP for Spiking Neural Networks]()</b> <br> 
+<b>[Global Error Modulated STDP for Spiking Neural Networks]()</b> <br> 
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
 <i>In preparation.</i>
 
