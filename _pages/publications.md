@@ -33,7 +33,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 ## Conference Papers
 <b>[SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br> 
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
-<i>Available in arVix.</i>
+<i>Available in arXiv.</i>
 
 <b>[A Fully Memristive Spiking Neural Network with Unsupervised Learning](https://arxiv.org/abs/2203.01416)</b> <br> 
 <b>Peng Zhou,</b> Donguk Choi, Jason K. Eshraghian, and Sung-Mo Kang.
