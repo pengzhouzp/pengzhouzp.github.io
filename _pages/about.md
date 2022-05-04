@@ -31,7 +31,6 @@ I am passionate about a multidisciplinary approach to the future, including elec
 # Review
 ## Journal
 * Memetic Computing
-
 ## Conference
 * 2022 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2022 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
