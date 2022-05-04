@@ -83,7 +83,7 @@ author:
   name             : "Peng Zhou"
   avatar           : "profile.png"
   bio              : "PhD candidate focused on Neuromorphic Computing and Spiking Neural Network"
-  location         : "California, USA"
+  location         : "UCSC, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iSDuz4AAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
