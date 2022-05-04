@@ -21,4 +21,4 @@ UCSC [IEEE HKN](https://ieeehkn.sites.ucsc.edu/) is the other organization I vol
 I tried skateboarding, snowboarding, kayaking, and dinghy sailing here, which are all pretty exciting.
 Ukulele is my favourite instrument, and it fits the beach vibes in Santa Cruz very well.
 I explored more about brain-inspired computing and read a lot to draw inspiration,
-some of which are listed [here](https://pengzhou.sites.ucsc.edu/theories/).
+some of which are listed [here](https://pengzhouzp.github.io/theories/).
