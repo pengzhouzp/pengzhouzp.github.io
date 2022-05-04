@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Zhou's main page"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Peng Zhou"
 description              : &description "personal description"
