@@ -16,6 +16,7 @@ I am passionate about a multidisciplinary approach to the future, including elec
 
 # News
 * [Apr. 25, 2022] Peng has been selected to participate in the 2022 Telluride Workshop on Neuromorphic Cognition Engineering, which is the most famous neuromorphic workshop with a long history since the "neuromorphic" area originated.
+* [Mar. 29, 2022] Peng has been selected as a 2022 Science Internship Program research mentor.
 * [Mar. 02, 2022] Paper “SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks” is available in arXiv.
 * [Feb. 25, 2022] Patent “Splitting normalization method and device, audio feature extractor and chip” has been published.
 * [Jan. 14, 2022] Paper “A Fully Memristive Spiking Neural Network with Unsupervised Learning” has been accepted at the 2022 IEEE International Symposium on Circuits & Systems (ISCAS).
@@ -23,6 +24,7 @@ I am passionate about a multidisciplinary approach to the future, including elec
 [Nov. 18, 2021] Paper “How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal Generation” has been published in: IEEE Transactions on Circuits and Systems–I: Regular Papers. We are honoured to have these international cooperations among Germany, Korea, the University of Michigan, UCB, and UCSC.
 * [Oct. 23, 2021] Peng gave a talk on “Memristive Spiking Neural Network for Neuromorphic Computing” at the Integrated Circuit School, Huazhong University of Science and Technology.
 * [May. 14, 2021] We received the Faculty Research Grant for “Bio-Inspired Memristive Spiking Neural Network for Machine Learning” research from the Committee on Research of the University of California, Santa Cruz.
+* [Mar 30, 2021] Peng has been selected as a 2021 Science Internship Program research mentor.
 * [Dec. 29, 2020] Paper “Automatically detecting bregma and lambda points in rodent skull anatomy images” has been published in: PloS one.
 * [Sep. 14, 2020] Peng received the 2020 IEEE Nuclear Science Symposium and Medical Imaging Conference trainee grant.
 * [Jul. 29, 2020] Paper “Towards Real-Time Machine Learning for Anomaly Detection” has been accepted at the 2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC).
