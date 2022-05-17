@@ -34,6 +34,7 @@ I am passionate about a multidisciplinary approach to the future, including elec
 
 # Review
 ## Journal
+* IEEE Transactions on Circuits and Systems II: Express Briefs
 * Memetic Computing
 
 ## Conference
