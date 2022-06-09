@@ -15,6 +15,7 @@ I am passionate about a multidisciplinary approach to the future, including elec
 <br>
 
 # News
+* [May. 31, 2022] Peng presented the paper <b>[“A Fully Memristive Spiking Neural Network with Unsupervised Learning”](https://arxiv.org/abs/2203.01416)</b> at the 2022 IEEE International Symposium on Circuits & Systems (IEEE ISCAS), Austin, TX.
 * [Apr. 25, 2022] Peng has been selected to participate in the <b>[2022 Telluride Workshop on Neuromorphic Cognition Engineering](https://sites.google.com/view/telluride-2022/home)</b>, which is the most famous neuromorphic workshop with a long history since the "neuromorphic" area originated.
 * [Mar. 29, 2022] Peng has been selected as a <b>[2022 Science Internship Program](https://sip.ucsc.edu/sip-2022-research-projects/) </b>research mentor.
 * [Mar. 02, 2022] Paper <b>[“SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks”](https://arxiv.org/abs/2203.01426)</b> is available in arXiv.
@@ -23,10 +24,10 @@ I am passionate about a multidisciplinary approach to the future, including elec
 * [Jan. 07, 2022] Patent <b>[“Pulse event decision device, method, chip and electronic equipment”](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> has been published.
 * [Nov. 18, 2021] Paper <b>[“How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal Generation”](https://ieeexplore.ieee.org/abstract/document/9618724)</b> has been published in: IEEE Transactions on Circuits and Systems–I: Regular Papers. We are honoured to have these international cooperations among Germany, Korea, the University of Michigan, UCB, and UCSC.
 * [Oct. 23, 2021] Peng gave a talk on <b>[“Memristive Spiking Neural Network for Neuromorphic Computing”](http://ic.hust.edu.cn/info/1135/1606.htm)</b> at the Integrated Circuit School, Huazhong University of Science and Technology.
-* [May. 14, 2021] We received the Faculty Research Grant for “Bio-Inspired Memristive Spiking Neural Network for Machine Learning” research from the Committee on Research of the University of California, Santa Cruz.
+* [May. 14, 2021] We received the Faculty Research Grant for **“Bio-Inspired Memristive Spiking Neural Network for Machine Learning”** research from the Committee on Research of the University of California, Santa Cruz.
 * [Mar 30, 2021] Peng has been selected as a <b>[2021 Science Internship Program](https://sip.ucsc.edu/2021-research-projects/)</b> research mentor.
 * [Dec. 29, 2020] Paper <b>[“Automatically detecting bregma and lambda points in rodent skull anatomy images”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0244378)</b> has been published in: PloS one.
-* [Sep. 14, 2020] Peng received the 2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (IEEE NSS/MIC) trainee grant.
+* [Sep. 14, 2020] Peng received the **2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (IEEE NSS/MIC) trainee grant**.
 * [Jul. 29, 2020] Paper <b>[“Towards Real-Time Machine Learning for Anomaly Detection”](https://ieeexplore.ieee.org/abstract/document/9507937)</b> has been accepted at the 2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (IEEE NSS/MIC).
 * [Mar. 16, 2019] Peng was accepted and graduated from the <b>[Graduate Student Leadership Certificate Program](https://graddiv.ucsc.edu/current-students/grad-student-resources/grad-student-leadership-prog.html)</b> of the University of California, Santa Cruz.
 
