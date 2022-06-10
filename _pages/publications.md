@@ -14,11 +14,7 @@ Sung Mo Kang, Donguk Choi, Jason K. Eshraghian, <b>Peng Zhou</b>, Jieun Kim, Bai
 <b>Peng Zhou</b>, Zheng Liu, Hemmings Wu, Yuli Wang, and Shiva Abbaszadeha.
 <i>PLOS ONE, Dec 2020.</i>
 
-<b>[Biomimetic Spiking Neural Network based on Monolayer 2D Synapse with Short-Term Plasticity for Auditory Brainstem Processing]()</b> <br> 
-Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol, SravyamPulavarthi, Linfeng Sun, Heejun Yang, Woo-Jong You, Jin-Woo Han, Sung-Mo Kang, and Bai-Sun Kong.
-<i>Submitted to Nano Letter.</i>
-
-<b>[SPICEprop: Backpropagating Errors Through Fully Memristive Spiking Neural Networks]()</b> <br> 
+<b>[Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays]()</b> <br> 
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
 <i>In preparation.</i>
 
@@ -26,8 +22,8 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
 <i>In preparation.</i>
 
-<b>[Self-Organizing Sound Localization System with Spike-timing-dependent Plasticity (STDP) Synapses]()</b> <br> 
-<b>Peng Zhou</b>, Jieun Kim, Donguk Choi, Sung-Mo Kang, and Bai Sun Kong.
+<b>[Biomimetic Spiking Neural Network based on Monolayer 2D Synapse with Short-Term Plasticity for Auditory Brainstem Processing]()</b> <br> 
+Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol, SravyamPulavarthi, Linfeng Sun, Heejun Yang, Woo-Jong You, Jin-Woo Han, Sung-Mo Kang, and Bai-Sun Kong.
 <i>In preparation.</i>
 
 ## Conference Papers
