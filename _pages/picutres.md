@@ -30,6 +30,16 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 
 
 <p align="center">
+  <img src="https://pengzhouzp.github.io/files/telluride.png?raw=true" alt="Photo" style="width: 550px;"/> 
+</p>
+<body><p style="text-align: center;">Telluride!</p></body>
+
+<p align="center">
+  <img src="https://pengzhouzp.github.io/files/light.png?raw=true" alt="Photo" style="width: 550px;"/> 
+</p>
+<body><p style="text-align: center;">I name this photo "When light wakes up the mountain".</p></body>
+
+<p align="center">
   <img src="https://pengzhouzp.github.io/files/cloudwall.png?raw=true" alt="Photo" style="width: 550px;"/> 
 </p>
 <body><p style="text-align: center;">A photo took near the UCSC marine campus, watch the cloud wall!</p></body>
