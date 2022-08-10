@@ -55,7 +55,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <p align="center">
   <img src="https://pengzhouzp.github.io/files/aspen1.png?raw=true" alt="Photo" style="width: 550px;"/> 
 </p>
-<body><p style="text-align: center;">How ski & snowboarding resorts and snow mountains looks in summer. Aspen, Colorado.</p></body>
+<body><p style="text-align: center;">How ski & snowboarding resorts and snow mountains look in summer. Aspen, Colorado.</p></body>
 
 
 <p align="center">
