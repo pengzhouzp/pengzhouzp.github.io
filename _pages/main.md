@@ -8,9 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-I am a PhD candidate in the Department of Electrical and Computer Engineering (<b>[ECE](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)</b>), University of California, Santa Cruz (<b>[UCSC](https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz)</b>). You can call me Peng or ZP. I am broadly interested in brain-inspired computing. 
-
-My research is co-supervised by <b>[Prof. Sung-Mo "Steve" Kang](https://en.wikipedia.org/wiki/Sung-Mo_Kang)</b> at <b>[Nanoelectronic Integrated Systems Laboratory](https://nisl.soe.ucsc.edu/)</b> and <b>[Prof. Jason Eshraghian](https://www.jasoneshraghian.com/)</b> at <b>[Neuromorphic Computing Group](https://ncg.ucsc.edu/)</b>, and focuses on neuromorphic computing, spiking neural networks, and their hardware implementation using memristors.
+I am a PhD candidate in the Department of Electrical and Computer Engineering (<b>[ECE](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)</b>), University of California, Santa Cruz (<b>[UCSC](https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz)</b>). My research is co-supervised by <b>[Prof. Sung-Mo "Steve" Kang](https://en.wikipedia.org/wiki/Sung-Mo_Kang)</b> at <b>[Nanoelectronic Integrated Systems Laboratory](https://nisl.soe.ucsc.edu/)</b> and <b>[Prof. Jason Eshraghian](https://www.jasoneshraghian.com/)</b> at <b>[Neuromorphic Computing Group](https://ncg.ucsc.edu/)</b>, and focuses on neuromorphic computing, spiking neural networks, and their hardware implementation using memristors.
 
 I was awarded “Best New Neuromorph” at the 2022 Telluride Workshop on Neuromorphic Cognition Engineering. I also obtained working experience from <b>[Synsense](https://www.synsense-neuromorphic.com/)</b>, a neuromorphic startup that spun out of the <b>[Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html)</b> at the University of Zurich and ETH Zurich.
 
