@@ -19,7 +19,8 @@ I am passionate about developing an interdisciplinary approach to unravelling th
 <br>
 
 # News
-* [Jul. 15, 2022] Peng was awarded <b>[“Best New Neuromorph"](https://sites.google.com/view/telluride-2022/about-workshop/awards?authuser=0)</b> during the <b>[2022 Telluride Neuromorphic Workshop](https://sites.google.com/view/telluride-2022/home)</b>. 
+* [Aug. 30, 2022] Congratulations to Prof. Jason Eshraghian for joining the ECE department as a new assistant professor. He leads the Neuromorphic Computing Group and co-advise Peng.
+* [Jul. 15, 2022] Peng was awarded <b>[“Best New Neuromorph"](https://sites.google.com/view/telluride-2022/about-workshop/awards?authuser=0)</b> during the <b>[2022 Telluride Neuromorphic Workshop](https://sites.google.com/view/telluride-2022/home)</b>. 
 * [Jun. 26, 2022] Paper <b>[“Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays"](https://arxiv.org/abs/2206.12992)</b> is available in arXiv.
 * [Jun. 23, 2022] Peng gave a talk at the Computer Science Department of Santa Clara University invited by Prof. Nam Ling and Tokunbo Ogunfunmi.
 * [May. 31, 2022] Peng presented the paper <b>[“A Fully Memristive Spiking Neural Network with Unsupervised Learning”](https://arxiv.org/abs/2203.01416)</b> at the 2022 IEEE International Symposium on Circuits & Systems (IEEE ISCAS), Austin, TX.
