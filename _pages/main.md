@@ -12,9 +12,9 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering (<
 
 I was awarded “Best New Neuromorph” at the 2022 Telluride Workshop on Neuromorphic Cognition Engineering. I also obtained working experience from <b>[Synsense](https://www.synsense-neuromorphic.com/)</b>, a neuromorphic startup that spun out of the <b>[Institute of Neuroinformatics](https://www.ini.uzh.ch/en.html)</b> at the University of Zurich and ETH Zurich.
 
-My bachelor’s degree was received in 2016 from the <b>[Experimental Class of Qiming College](http://qiming.hust.edu.cn/rcpy/syb.htm)</b>, a independent college for the cultivation of top innovative students at Huazhong University of Science and Technology (<b>[HUST](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology)</b>). Meanwhile, the degree is also awarded by the School of Artificial Intelligence and Automation (<b>[AIA](http://english.aia.hust.edu.cn/)</b>) at HUST.
+My bachelor’s degree was received in 2016 from the <b>[Experimental Class of Qiming College](http://qiming.hust.edu.cn/rcpy/syb.htm)</b>, an independent college for the cultivation of top innovative students at Huazhong University of Science and Technology (<b>[HUST](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology)</b>). Meanwhile, the degree is also awarded by the School of Artificial Intelligence and Automation (<b>[AIA](http://english.aia.hust.edu.cn/)</b>) at HUST.
 
-I am passionate about developing an interdisciplinary approach to unravelling the mysteries of the brain and brain-inspired computing, spanning across electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
+I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 <br>
 
