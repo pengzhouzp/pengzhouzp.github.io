@@ -52,7 +52,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <body><p style="text-align: center;">Check this double rainbow! Telluride, Colorado.</p></body>
 
 <p align="center">
-  <img src="https://pengzhouzp.github.io/files/poem1.JPG?raw=true" alt="Photo" style="width: 550px;"/> 
+  <img src="https://pengzhouzp.github.io/files/poem2.JPG?raw=true" alt="Photo" style="width: 550px;"/> 
 </p>
 <body><p style="text-align: center;">My calligraphy captures a poem named《和子由渑池怀旧》by Chinese poet “Su Shi”. It is a seven-character per line poem from the Song Dynasty. Part of the translation by Lin Yutang is as follows,
 
@@ -63,7 +63,7 @@ But carefree, the bird flies east and west .”</p></body>
 
 
 <p align="center">
-  <img src="https://pengzhouzp.github.io/files/poem2.png?raw=true" alt="Photo" style="width: 550px;"/> 
+  <img src="https://pengzhouzp.github.io/files/poem1.png?raw=true" alt="Photo" style="width: 550px;"/> 
 </p>
 <body><p style="text-align: center;">My calligraphy captures a poem named《短歌行》by Chinese poet “Cao Cao”. It is a four-character per line poem from the Three Kingdoms period. Part of the translation by Zhao Yanchun is as follows,
 
