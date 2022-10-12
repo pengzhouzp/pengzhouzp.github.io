@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Theories I interested"
+title: "Theories and Books I interested in"
 permalink: /theories/
 author_profile: true
 ---
@@ -20,3 +20,5 @@ author_profile: true
 -Ernest Tupes, Raymond Christal, J.M. Digman, Lewis Goldberg, et al., Big Five personality traits, OCEAN model.
 
 -Rebecca Saxe, “Theory of Mind”.
+
+-Yuval Noah Harari, "Sapiens: A Brief History of Humankind".
