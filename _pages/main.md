@@ -49,6 +49,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * Memetic Computing
 
 ## Conference
+* 2023 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2022 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2022 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
 * 2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
