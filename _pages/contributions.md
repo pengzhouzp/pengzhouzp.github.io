@@ -41,7 +41,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>[Rockpool](https://synsense.gitlab.io/rockpool/)</b>: a Python package for training spiking neural networks, compatible with GPUs and Synsense's Xylo. <br> 
 
 ## Open-source Chip
-<b>[Spiking Neural Network Accelerator](https://github.com/pengzhouzp/wrapped_snn_network)</b>: Spiking neural network ASIC with adaptive threshold and recurrent connections. <br> 
+<b>[Spiking Neural Network Accelerator](https://github.com/pengzhouzp/wrapped_snn_network)</b>: Binarized spiking neural network ASIC with adaptive threshold and recurrent connections. <br> 
 
 ## Patent
 <b>[Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
