@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Paper
-<b>[Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays](https://ieeexplore.ieee.org/document/9961206/authors#authors)</b> <br> 
+<b>[Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays](https://ieeexplore.ieee.org/document/9961206)</b> <br> 
 <b>Peng Zhou</b>, Donguk Choi, Wei D. Lu, Sung-Mo Kang, and Jason K. Eshraghian.
 <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Nov 2022.</i>
 
