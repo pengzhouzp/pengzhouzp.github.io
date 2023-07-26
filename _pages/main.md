@@ -49,6 +49,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 # Review
 ## Journal
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+* IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * Memetic Computing
 
