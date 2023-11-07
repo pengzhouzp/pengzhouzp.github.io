@@ -18,6 +18,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 
 # News
 
+* [Oct. 08, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is accepted by 2023 EMNLP Findings!
 * [May. 22, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is available in arXiv.
 * [May. 22, 2023] Peng presented the paper <b>["Backpropagating Errors Through Memristive Spiking Neural Networks"](https://arxiv.org/abs/2203.01426)</b> at the 2023 IEEE International Symposium on Circuits & Systems (IEEE ISCAS), Monterey, CA.
 * [April. 29, 2023] <b>[The paper titled "How to Build a Memristive Integrate-and-Fire Neuron for Spiking Neuronal Signal Generation" has been awarded the 2023 IEEE Transaction on Circuits and Systems Darlington Best Paper Award](https://ieee-cas.org/paper-award/outstanding-paper-awards/ieee-transactions-circuits-and-systems-darlington-best-paper#recipients)</b>. This paper was led by Prof. Sung-Mo Kang, Prof. Jason Eshraghian, and Prof. Leon O. Chua in a collaboration spanning UC Santa Cruz, UC Berkeley, University of Michigan, TU Dresden, and Syungkyunkwan University.
@@ -51,6 +52,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
+* IEEE Transactions on Biomedical Circuits and Systems
 * Memetic Computing
 
 ## Conference
