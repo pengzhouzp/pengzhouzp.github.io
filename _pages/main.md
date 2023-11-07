@@ -18,6 +18,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 
 # News
 
+* [Oct. 13, 2023] Peng was invited to attend the United Nations event <b>["The 2023 Policy Dialogue on Women in Science: Pathways towards Breaking Barriers in STEM"](https://www.undp.org/china/press-releases/empowering-women-science-un-policy-dialogue-sheds-light-pathways-gender-equality-stem-fields)</b>.
 * [Oct. 08, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is accepted by 2023 EMNLP Findings!
 * [May. 22, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is available in arXiv.
 * [May. 22, 2023] Peng presented the paper <b>["Backpropagating Errors Through Memristive Spiking Neural Networks"](https://arxiv.org/abs/2203.01426)</b> at the 2023 IEEE International Symposium on Circuits & Systems (IEEE ISCAS), Monterey, CA.
