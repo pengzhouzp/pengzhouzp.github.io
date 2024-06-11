@@ -17,7 +17,9 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 <br>
 
 # News
-
+* [Jun. 04, 2024] Paper <b>["Scalable MatMul-free Language Modeling"](https://arxiv.org/abs/2406.02528)</b> is available in arXiv.
+* [Apr. 08, 2024] Paper <b>["Eagle and Finch: RWKV with matrix-valued states and dynamic recurrence"](https://arxiv.org/abs/2404.05892)</b> is available in arXiv.
+* [Nov. 24, 2023] Paper <b>["Neuromorphic intermediate representation: a unified instruction set for interoperable brain-inspired computing"](https://arxiv.org/abs/2311.14641)</b> is available in arXiv.
 * [Oct. 13, 2023] Peng was invited to attend the United Nations event <b>["The 2023 Policy Dialogue on Women in Science: Pathways towards Breaking Barriers in STEM"](https://www.undp.org/china/press-releases/empowering-women-science-un-policy-dialogue-sheds-light-pathways-gender-equality-stem-fields)</b>.
 * [Oct. 08, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is accepted by 2023 EMNLP Findings!
 * [May. 22, 2023] Paper <b>["RWKV: Reinventing RNNs for the Transformer Era"](https://arxiv.org/abs/2305.13048)</b> is available in arXiv.
@@ -48,15 +50,19 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 
 <br>
 
-# Review
-## Journal
+# Services
+## Conference Organization
+* Program Committee of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+
+## Journal Review
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * IEEE Transactions on Biomedical Circuits and Systems
 * Memetic Computing
 
-## Conference
+## Conference Review
+* 2024 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
 * 2023 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
 * 2023 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2022 IEEE International Symposium on Circuits & Systems (ISCAS)
