@@ -55,8 +55,8 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee Member
 
 # Conference Services
-* Program Committee of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
-* Topic Leaders of 2023 Telluride Neuromorphic Cognition Engineering Workshop
+* Program Committee Member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* Topic Leader of 2023 Telluride Neuromorphic Cognition Engineering Workshop
 
 # Journal Review
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
