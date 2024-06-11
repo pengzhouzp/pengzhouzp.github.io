@@ -50,9 +50,13 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 
 <br>
 
-# Services
-## Conference Organization
+# Academic Services
+* IEEE CASS Neural Systems and Applications (NSA) Technical Committee Member
+* IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee Member
+
+## Conference Services
 * Program Committee of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* Topic Leaders of 2023 Telluride Neuromorphic Cognition Engineering Workshop
 
 ## Journal Review
 * IEEE Journal on Emerging and Selected Topics in Circuits and Systems
@@ -62,6 +66,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * Memetic Computing
 
 ## Conference Review
+* 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * 2024 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
 * 2023 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
 * 2023 IEEE International Symposium on Circuits & Systems (ISCAS)
