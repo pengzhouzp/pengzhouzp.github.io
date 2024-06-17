@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Journal Paper
+<b>[Neuromorphic intermediate representation: a unified instruction set for interoperable brain-inspired computing](https://arxiv.org/abs/2311.14641)</b> <br> 
+<i> Available in arXiv, Nov 2023.</i>
+
 <b>[Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays](https://ieeexplore.ieee.org/document/9961206)</b> <br> 
 <b>Peng Zhou</b>, Donguk Choi, Wei D. Lu, Sung-Mo Kang, and Jason K. Eshraghian.
 <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Nov 2022.</i>
@@ -23,16 +26,22 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <i>In preparation.</i>
 
 ## Conference Paper
-<b>[SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br> 
-<b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang.
-<i>Available in arXiv, Mar 2022.</i>
+<b>[Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2404.05892)(https://arxiv.org/abs/2406.02528)</b> <br> 
+<i> Available in arXiv, June 2024.</i>
+
+<b>[Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence](https://arxiv.org/abs/2404.05892)</b> <br> 
+<i> Available in arXiv, June 2024.</i>
+
+<b>[Rwkv: Reinventing rnns for the transformer era]([https://arxiv.org/abs/2404.05892](https://arxiv.org/abs/2305.13048))</b> <br> 
+<i> Empirical Methods in Natural Language Processing </i>. <b>EMNLP 2023</b>.
+
+<b>[Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br> 
+<i> IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2023</b>.
 
 <b>[A Fully Memristive Spiking Neural Network with Unsupervised Learning](https://arxiv.org/abs/2203.01416)</b> <br> 
-<b>Peng Zhou,</b> Donguk Choi, Jason K. Eshraghian, and Sung-Mo Kang.
 <i> IEEE International Symposium on Circuits and Systems</i>. <b>ISCAS 2022</b>.
 
 <b>[Towards Real-Time Machine Learning for Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9507937)</b> <br> 
-<b>Peng Zhou</b>, and Shiva Abbaszadeh.
 <i> IEEE Nuclear Science Symposium and Medical Imaging Conference</i>. <b>NSS/MIC 2020</b>.
 
 ## Open-source Framework
