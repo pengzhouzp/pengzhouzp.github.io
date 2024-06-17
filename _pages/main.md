@@ -17,6 +17,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 <br>
 
 # News
+* [Jun. 13, 2024] <b>[My interview with STEM4ALL, supported by the United Nations Development Programme (UNDP) and the United Nations International Children's Emergency Fund (UNICEF)](https://stem4alleurasia.org/connect/meet-inspiring-steminists/ai-modeling-on-the-brain-designing-gender-equal-large-language-models)</b>, is now available online!
 * [Jun. 04, 2024] Paper <b>["Scalable MatMul-free Language Modeling"](https://arxiv.org/abs/2406.02528)</b> is available in arXiv.
 * [Apr. 08, 2024] Paper <b>["Eagle and Finch: RWKV with matrix-valued states and dynamic recurrence"](https://arxiv.org/abs/2404.05892)</b> is available in arXiv.
 * [Nov. 24, 2023] Paper <b>["Neuromorphic intermediate representation: a unified instruction set for interoperable brain-inspired computing"](https://arxiv.org/abs/2311.14641)</b> is available in arXiv.
@@ -51,11 +52,12 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 <br>
 
 # Academic Services
-* IEEE CASS Neural Systems and Applications (NSA) Technical Committee Member
-* IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee Member
+* IEEE CASS Neural Systems and Applications (NSA) Technical Committee member
+* IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Services
-* Program Committee Member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* Technical Program Committees member of 2024 3rd International Conference on Neuromorphic Computing (ICNC)
+* Program Committee member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Topic Leader of 2023 Telluride Neuromorphic Cognition Engineering Workshop
 
 # Journal Review
