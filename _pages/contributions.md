@@ -53,9 +53,9 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>[Spiking Neural Network Accelerator](https://github.com/pengzhouzp/wrapped_snn_network)</b>: Binarized spiking neural network ASIC with adaptive threshold and recurrent connections. <br> 
 
 ## Patent
-<b>[Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
+<b><b>CN/WO/US:</b>   [Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
 <b>Peng Zhou</b>, Yannan Xing, Ning Qiao, Yudi Ren, Zheng Ke, Yanlun Hu, Bo Li, Yuhang Liu, Xiwen Gong, Sadique Sheik, Dylan Richard Muir.
 
-<b>[Splitting normalization method and device, audio feature extractor and chip](https://patents.google.com/patent/CN114093377A/en?oq=CN114093377A)</b> <br> 
+<b><b>CN/WO/US:</b>   [Splitting normalization method and device, audio feature extractor and chip](https://patents.google.com/patent/CN114093377A/en?oq=CN114093377A)</b> <br> 
 Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b>, Ning Qiao.
 
