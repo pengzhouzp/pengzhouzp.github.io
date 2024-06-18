@@ -8,9 +8,13 @@ redirect_from:
   - /main.html
 ---
 
+I am Co-Founder and CTO of <b>[LuxiTech](https://www.luxitech.cn/)</b> , focusing on building brain-inspired large language models. These models are specifically designed to operate with high cognitive capabilities while consuming significantly less power compared to traditional LLMs. 
+
 I received the Ph.D degree from the Department of Electrical and Computer Engineering (<b>[ECE](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)</b>), University of California, Santa Cruz (<b>[UCSC](https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz)</b>). My research is co-supervised by <b>[Prof. Sung-Mo "Steve" Kang](https://en.wikipedia.org/wiki/Sung-Mo_Kang)</b> at <b>[Nanoelectronic Integrated Systems Laboratory](https://nisl.soe.ucsc.edu/)</b> and <b>[Prof. Jason Eshraghian](https://www.jasoneshraghian.com/)</b> at <b>[Neuromorphic Computing Group](https://ncg.ucsc.edu/)</b>, and focuses on neuromorphic computing, spiking neural networks, and their hardware implementation using memristors.
 
 My bachelor’s degree was received in 2016 from the <b>[Experimental Class of Qiming College](http://qiming.hust.edu.cn/rcpy/syb.htm)</b>, an independent college for the cultivation of top innovative students at Huazhong University of Science and Technology (<b>[HUST](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology)</b>). Meanwhile, the degree is also awarded by the School of Artificial Intelligence and Automation (<b>[AIA](http://english.aia.hust.edu.cn/)</b>) at HUST.
+
+I also obtained working experience from Synsense, a neuromorphic startup that spun out of the Institute of Neuroinformatics at the University of Zurich and ETH Zurich; and Tetramem, a computing-in-memory startup whose RRAM technologies are based on Yang research group at USC, Nanodevices and Integrated Systems Laboratory at UMass Amherst, and HP labs.
 
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
