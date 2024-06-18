@@ -15,7 +15,7 @@ My bachelor’s degree was received in 2016 from the <b>[Experimental Class of Q
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
-* [Jun. 13, 2024] <b>[My interview with STEM4ALL, supported by the United Nations Development Programme (UNDP) and the United Nations International Children's Emergency Fund (UNICEF)](https://stem4alleurasia.org/connect/meet-inspiring-steminists/ai-modeling-on-the-brain-designing-gender-equal-large-language-models)</b>, is now available online!
+* [Jun. 13, 2024] <b> [My interview with STEM4ALL, supported by the United Nations Development Programme (UNDP) and the United Nations International Children's Emergency Fund (UNICEF)](https://stem4alleurasia.org/connect/meet-inspiring-steminists/ai-modeling-on-the-brain-designing-gender-equal-large-language-models)</b>, is now available online!
 * [Jun. 04, 2024] Paper <b>["Scalable MatMul-free Language Modeling"](https://arxiv.org/abs/2406.02528)</b> is available in arXiv.
 * [Apr. 08, 2024] Paper <b>["Eagle and Finch: RWKV with matrix-valued states and dynamic recurrence"](https://arxiv.org/abs/2404.05892)</b> is available in arXiv.
 * [Nov. 24, 2023] Paper <b>["Neuromorphic intermediate representation: a unified instruction set for interoperable brain-inspired computing"](https://arxiv.org/abs/2311.14641)</b> is available in arXiv.
@@ -100,7 +100,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <i>In preparation.</i>
 
 # Conference Paper
-<b>[Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2404.05892)(https://arxiv.org/abs/2406.02528)</b> <br> 
+<b>[Scalable MatMul-free Language Modeling](https://arxiv.org/abs/2404.05892)</b> <br> 
 <i> Available in arXiv, June 2024.</i>
 
 <b>[Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence](https://arxiv.org/abs/2404.05892)</b> <br> 
