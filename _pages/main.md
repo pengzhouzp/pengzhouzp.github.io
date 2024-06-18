@@ -110,7 +110,7 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>[Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence](https://arxiv.org/abs/2404.05892)</b> <br> 
 <i> Available in arXiv, June 2024.</i>
 
-<b>[Rwkv: Reinventing rnns for the transformer era]([https://arxiv.org/abs/2404.05892](https://arxiv.org/abs/2305.13048))</b> <br> 
+<b>[Rwkv: Reinventing rnns for the transformer era](https://arxiv.org/abs/2404.05892)</b> <br> 
 <i> Empirical Methods in Natural Language Processing </i>. <b>EMNLP 2023</b>.
 
 <b>[Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br> 
@@ -126,6 +126,8 @@ Jieun Kim, <b>Peng Zhou</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol,
 <b>[snnTorch](https://snntorch.readthedocs.io/en/latest/)</b>: a Python package for trainig spiking neural networks, compatible with GPUs and Graphcore’s Intelligence Processing Units (IPUs). <br>
 
 <b>[Rockpool](https://synsense.gitlab.io/rockpool/)</b>: a Python package for training spiking neural networks, compatible with GPUs and Synsense's Xylo. <br> 
+
+<b>[NIR](https://neuroir.org/docs/)</b>: a set of computational primitives, shared across different neuromorphic frameworks and technology stacks. NIR is currently supported by 7 simulators and 4 hardware platforms, including Lava-DL, Nengo, Norse, Rockpool, Sinabs, snnTorch, SpiNNaker2, Spyx, Speck, Xylo, etc, allowing users to seamlessly move between any of these platforms.
 
 # Open-source Chip
 <b>[Spiking Neural Network Accelerator](https://github.com/pengzhouzp/wrapped_snn_network)</b>: Binarized spiking neural network ASIC with adaptive threshold and recurrent connections. <br> 
