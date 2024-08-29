@@ -19,6 +19,7 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
+* [Aug. 28, 2024] Paper <b>["Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing"]()</b> has been accepted by Nature Communications.
 * [Aug. 02, 2024] Paper <b>["WIFA: A Weight Importance and Frequency aware Accelerator for SNN"]()</b> has been accepted by 2024 IEEE International Conference on Computer Design (IEEE ICCD).
 * [Aug. 01, 2024] Paper <b>["Biomimetic Spiking Neural Network Based on Monolayer 2D Synapse with Short-Term Plasticity for Auditory Brainstem Processing"]()</b> has been accepted by IEEE Transactions on Cognitive and Developmental Systems.
 * [Jun. 13, 2024] <b> [My interview with STEM4ALL, supported by the United Nations Development Programme (UNDP) and the United Nations International Children's Emergency Fund (UNICEF)](https://stem4alleurasia.org/connect/meet-inspiring-steminists/ai-modeling-on-the-brain-designing-gender-equal-large-language-models)</b>, is now available online!
