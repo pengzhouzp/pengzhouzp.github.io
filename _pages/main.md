@@ -55,39 +55,25 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * [Jul. 29, 2020] Paper <b>["Towards Real-Time Machine Learning for Anomaly Detection"](https://ieeexplore.ieee.org/abstract/document/9507937)</b> has been accepted by the 2020 IEEE Nuclear Science Symposium and Medical Imaging Conference (IEEE NSS/MIC).
 * [Mar. 16, 2019] Peng was accepted and graduated from the <b>[Graduate Student Leadership Certificate Program](https://graddiv.ucsc.edu/current-students/grad-student-resources/grad-student-leadership-prog.html)</b> of the University of California, Santa Cruz.
 
+# Working Experience
+* LuxiTech (Efficient, Brain-inspired Large Language Model)
+* Tetramem (Compute In-Memory, Memristor)
+* Synsense (Neuromorphic Computing, Spiking Neural Network)
+
 # Academic Services
 * IEEE CASS Neural Systems and Applications (NSA) Technical Committee member
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
-# Conference Services
-* Technical Program Committees member of 2024 3rd International Conference on Neuromorphic Computing (ICNC)
+# Conference Organizations
+* NeuroAI Workshop Program Committee of 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
 * Program Committee member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* Technical Program Committees member of 2024 3rd International Conference on Neuromorphic Computing (ICNC)
 * Topic Leader of 2023 Telluride Neuromorphic Cognition Engineering Workshop
 
-# Journal Review
-* IEEE Journal on Emerging and Selected Topics in Circuits and Systems
-* IEEE Transactions on Circuits and Systems I: Regular Papers
-* IEEE Transactions on Circuits and Systems II: Express Briefs
-* IEEE Transactions on Biomedical Circuits and Systems
-* Memetic Computing
+# Social Services
+* STEM4ALL STEMinist Network, initiated by United Nations Development Programme (UNDP) and United Nations Children's Fund (UNICEF)
 
-# Conference Review
-* 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
-* 2024 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
-* 2023 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
-* 2023 IEEE International Symposium on Circuits & Systems (ISCAS)
-* 2022 IEEE International Symposium on Circuits & Systems (ISCAS)
-* 2022 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
-* 2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
-
-# Teaching Assistant
-* CSE 12: Computer Systems and Assembly Language and Lab, Spring 2022
-* CSE 30: Programming Abstractions: Python, Winter 2022
-* ECE 163: Introduction to Small-Scale UAV Theory and Practice, Spring 2021
-* ECE 171: Analog Electronics, Winter 2021
-* ECE 101: Introduction to Electronic Circuits, Fall 2020
-
-# Paper
+# Publications
 <b>[Gradient-based Neuromorphic Learning on Dynamical RRAM Arrays](https://ieeexplore.ieee.org/document/9961206)</b> <br> 
 <b>Peng Zhou</b>, Donguk Choi, Wei D. Lu, Sung-Mo Kang, and Jason K. Eshraghian.
 <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Nov 2022.</i>
@@ -95,10 +81,6 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 <b>[Biomimetic Spiking Neural Network based on Monolayer 2D Synapse with Short-Term Plasticity for Auditory Brainstem Processing]()</b> <br> 
 Jieun Kim^, <b>Peng Zhou^</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol, SravyamPulavarthi, Linfeng Sun, Heejun Yang, Woo-Jong You, Jin-Woo Han, Sung-Mo Kang, and Bai-Sun Kong.
 <i>IEEE Transactions on Cognitive and Developmental Systems.</i>
-
-<b>[How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal Generation](https://ieeexplore.ieee.org/document/9618724)</b> <br> 
-Sung Mo Kang, Donguk Choi, Jason K. Eshraghian, <b>Peng Zhou</b>, Jieun Kim, Bai Sun Kong, Xiaojian Zhu, Ahmet Samil Demirkol, Alon Ascoli, Ronald Tetzlaff, Wei D. Lu, and Leon O. Chua.
-<i>IEEE Transactions on Circuits and Systems–I: Regular Papers, Nov 2021.</i>
 
 <b>[Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br>
 <b>Peng Zhou</b>, Jason K. Eshraghian, Donguk Choi, and Sung-Mo Kang. 
@@ -124,18 +106,23 @@ Rui-Jie Zhu, Yu Zhang, Ethan Sifferman, Tyler Sheaves, Yiqiao Wang, Dustin Richm
 Yu Zhang, Songlin Yang, Rui-jie Zhu, Yue Zhang, Leyang Cui, Yiqiao Wang, Bolun Wang, Freda Shi, Bailin Wang, Wei Bi, <b>Peng Zhou^</b>, Guohong Fu^.
 <i> Submitted to 2024 Neurips.</i>
 
+<b>[How to Build a Memristive Integrate-and-Fire Model for Spiking Neuronal Signal Generation](https://ieeexplore.ieee.org/document/9618724)</b> <br> 
+Sung Mo Kang, Donguk Choi, Jason K. Eshraghian, <b>Peng Zhou</b>, Jieun Kim, Bai Sun Kong, Xiaojian Zhu, Ahmet Samil Demirkol, Alon Ascoli, Ronald Tetzlaff, Wei D. Lu, and Leon O. Chua.
+<i>IEEE Transactions on Circuits and Systems–I: Regular Papers, Nov 2021.</i> <b>2023 IEEE Transactions on Circuits and Systems Darlington Best Paper Award</b>
+
 <b>[WIFA: A Weight Importance and Frequency aware Accelerator for SNN]()</b> <br> 
 Xuan Zhang, Zhuoran Song, <b>Peng Zhou</b>, Zhezhi He, Naifeng Jing, Li Jiang, Xiaoyao Liang.
-<i> 2024 IEEE International Conference on Computer Design  </i>. <b>IEEE ICCD 2024</b>.
+<i> 2024 IEEE International Conference on Computer Design </i>. <b>IEEE ICCD 2024</b>.
 
 <b>[Neuromorphic intermediate representation: a unified instruction set for interoperable brain-inspired computing](https://arxiv.org/abs/2311.14641)</b> <br> 
-Jens E Pedersen, Steven Abreu, Matthias Jobst, Gregor Lenz, Vittorio Fra, Felix C Bauer, Dylan R Muir, <b>Peng Zhou</b>, Bernhard Vogginger, Kade Heckel, Gianvito Urgese, Sadasivan Shankar, Terrence C Stewart, Jason K Eshraghian, Sadique Sheik.
-<i> Submitted to Nature Communications.</i>
+Jens E Pedersen, Steven Abreu, Matthias Jobst, Gregor Lenz, Vittorio Fra, Felix C Bauer, Dylan R Muir, <b>Peng Zhou</b>, Bernhard Vogginger, Kade Heckel, Gianvito Urgese, Sadasivan Shankar, Terrence C Stewart, Jason K Eshraghian, Sadique Sheik. <b><i> Nature Communications </i></b> 15.1 (2024): 8122.
 
 <b>[Eagle and finch: Rwkv with matrix-valued states and dynamic recurrence](https://arxiv.org/abs/2404.05892)</b> <br> 
+Bo Peng, et al., <b>Peng Zhou</b>, et al.
 <i> Conference on Language Modeling </i>. <b>COLM 2024</b>
 
 <b>[Rwkv: Reinventing rnns for the transformer era](https://arxiv.org/abs/2404.05892)</b> <br> 
+Bo Peng, et al., <b>Peng Zhou</b>, et al.
 <i> Empirical Methods in Natural Language Processing </i>. <b>EMNLP 2023</b>.
 
 # Open-source Framework
@@ -149,8 +136,30 @@ Jens E Pedersen, Steven Abreu, Matthias Jobst, Gregor Lenz, Vittorio Fra, Felix 
 <b>[Spiking Neural Network Accelerator](https://github.com/pengzhouzp/wrapped_snn_network)</b>: Binarized spiking neural network ASIC with adaptive threshold and recurrent connections. <br> 
 
 # Patent
-<b><b>CN/WO/US:</b> [Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
+<b><b>US/WO/CN:</b> [Pulse event decision device, method, chip and electronic equipment](https://patents.google.com/patent/CN113902106B/en?oq=CN113902106B)</b> <br> 
 <b>Peng Zhou</b>, Yannan Xing, Ning Qiao, Yudi Ren, Zheng Ke, Yanlun Hu, Bo Li, Yuhang Liu, Xiwen Gong, Sadique Sheik, Dylan Richard Muir.
 
-<b><b>CN/WO/US:</b> [Splitting normalization method and device, audio feature extractor and chip](https://patents.google.com/patent/CN114093377A/en?oq=CN114093377A)</b><br> 
+<b><b>US/WO/CN:</b> [Splitting normalization method and device, audio feature extractor and chip](https://patents.google.com/patent/CN114093377A/en?oq=CN114093377A)</b><br> 
 Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b>, Ning Qiao.
+
+# Paper Review
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+* IEEE Transactions on Circuits and Systems I: Regular Papers
+* IEEE Transactions on Circuits and Systems II: Express Briefs
+* IEEE Transactions on Biomedical Circuits and Systems
+* Memetic Computing
+* 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
+* 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
+* 2024 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
+* 2023 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
+* 2023 IEEE International Symposium on Circuits & Systems (ISCAS)
+* 2022 IEEE International Symposium on Circuits & Systems (ISCAS)
+* 2022 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
+* 2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)
+
+# Teaching Assistant
+* CSE 12: Computer Systems and Assembly Language and Lab, Spring 2022
+* CSE 30: Programming Abstractions: Python, Winter 2022
+* ECE 163: Introduction to Small-Scale UAV Theory and Practice, Spring 2021
+* ECE 171: Analog Electronics, Winter 2021
+* ECE 101: Introduction to Electronic Circuits, Fall 2020
