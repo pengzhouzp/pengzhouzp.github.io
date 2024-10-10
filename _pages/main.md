@@ -8,7 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-I am Co-Founder and CTO of <b>[LuxiTech](https://www.luxitech.cn/)</b> , focusing on building brain-inspired large language models. These models are specifically designed to operate with high cognitive capabilities while consuming significantly less power compared to traditional LLMs. 
+I am Co-Founder and CTO of <b>[陆兮科技LuxiTech](https://www.luxitech.cn/)</b> . The name "Luxi" is inspired by the first female hominin fossil, dating back 3.2 million years. We are focusing on building brain-inspired large language models. These models are specifically designed to operate with high cognitive capabilities while consuming significantly less power compared to traditional LLMs. 
 
 I received the Ph.D degree from the Department of Electrical and Computer Engineering (<b>[ECE](https://www.soe.ucsc.edu/departments/electrical-computer-engineering)</b>), University of California, Santa Cruz (<b>[UCSC](https://en.wikipedia.org/wiki/University_of_California,_Santa_Cruz)</b>). My research is co-supervised by <b>[Prof. Sung-Mo "Steve" Kang](https://en.wikipedia.org/wiki/Sung-Mo_Kang)</b> at <b>[Nanoelectronic Integrated Systems Laboratory](https://nisl.soe.ucsc.edu/)</b> and <b>[Prof. Jason Eshraghian](https://www.jasoneshraghian.com/)</b> at <b>[Neuromorphic Computing Group](https://ncg.ucsc.edu/)</b>, and focuses on neuromorphic computing, spiking neural networks, and their hardware implementation using memristors.
 
