@@ -28,6 +28,15 @@ it actually turns out to be a pretty happy time when I reach out to friends, eve
 I think it would be a good chance to share more of my personal life here to connect with everyone. 
 If any of my pictures and words can encourage and support you, it is my pleasure, and let's get in touch!
 
+<p align="center">
+  <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Photo" style="width: 550px;"/> 
+</p>
+<body><p style="text-align: center;">Monterey Bay Aquarium, California.</p></body>
+
+<p align="center">
+  <img src="https://pengzhouzp.github.io/files/seal.png?raw=true" alt="Photo" style="width: 550px;"/> 
+</p>
+<body><p style="text-align: center;">Monterey Seal checking out Monterey Sea, California.</p></body>
 
 <p align="center">
   <img src="https://pengzhouzp.github.io/files/telluride.png?raw=true" alt="Photo" style="width: 550px;"/> 
