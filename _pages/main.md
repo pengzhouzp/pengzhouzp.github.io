@@ -148,6 +148,7 @@ Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * IEEE Transactions on Biomedical Circuits and Systems
 * Memetic Computing
+* 2025 International Conference on Learning Representations (ICLR)
 * 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
 * 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * 2024 IEEE Biomedical Circuits and Systems Conference (BIOCAS)
