@@ -15,8 +15,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "中文主页"
+    url: /chinese/
     
   - title: "More"
     url: /more/
