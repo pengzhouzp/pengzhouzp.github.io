@@ -65,6 +65,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Organizations
+* Review Committee of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * NeuroAI Workshop Program Committee of 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
 * Program Committee member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Technical Program Committees member of 2024 3rd International Conference on Neuromorphic Computing (ICNC)
