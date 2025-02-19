@@ -19,6 +19,8 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
+* [Jan. 21, 2025] Paper <b>["Jumping Memory for Memristive Reservoir Computing"]()</b>", has been accepted for Lecture presentation at the 2025 IEEE International Symposium on Circuits and Systems.
+* [Dec. 15, 2024] Paper <b>["Deployment Pipeline from Rockpool to Xylo for Edge Computing"](https://arxiv.org/abs/2412.11047)</b>", is available in arXiv.
 * [Sep. 25, 2024] Paper <b>["Gated Slot Attention for Efficient Linear-Time Sequence Modeling"](https://arxiv.org/abs/2409.07146)</b> has been accepted by NeurIPS 2024.
 * [Aug. 28, 2024] Paper <b>["Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing"](https://www.nature.com/articles/s41467-024-52259-9)</b> has been accepted by Nature Communications.
 * [Aug. 02, 2024] Paper <b>["WIFA: A Weight Importance and Frequency aware Accelerator for SNN"]()</b> has been accepted by 2024 IEEE International Conference on Computer Design (IEEE ICCD).
@@ -65,7 +67,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Organizations
-* Review Committee of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
+* Review Committee, Session Chair of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * NeuroAI Workshop Program Committee of 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
 * Program Committee member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Technical Program Committees member of 2024 3rd International Conference on Neuromorphic Computing (ICNC)
