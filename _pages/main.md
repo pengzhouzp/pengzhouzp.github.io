@@ -67,6 +67,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Organizations
+* Program Committee member of 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Review Committee, Session Chair of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * NeuroAI Workshop Program Committee of 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
 * Program Committee member of 2024 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
@@ -150,6 +151,7 @@ Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b
 * IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * IEEE Transactions on Biomedical Circuits and Systems
+* Nature npj Unconventional Computing
 * Memetic Computing
 * 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2025 International Conference on Learning Representations (ICLR)
