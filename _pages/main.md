@@ -153,6 +153,7 @@ Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b
 * IEEE Transactions on Biomedical Circuits and Systems
 * Nature npj Unconventional Computing
 * Memetic Computing
+* 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2025 International Conference on Learning Representations (ICLR)
 * 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
