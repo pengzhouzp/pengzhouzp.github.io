@@ -31,6 +31,16 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <table>
   <tr>
     <td align="center">
+      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen" width="600"/>
+      <p align="center">Monterey Bay Aquarium, California.</p>
+    </td>
+    <td align="center">
+      <img src="https://pengzhouzp.github.io/files/observatory.png?raw=true" alt="Shenzhen Observatory, Shenzhen" width="600"/>
+      <p align="center">Monterey Seal checking out Monterey Sea, California.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Monterey Bay Aquarium, California" width="560"/>
       <p align="center">Monterey Bay Aquarium, California.</p>
     </td>
