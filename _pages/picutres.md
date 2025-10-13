@@ -31,7 +31,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <table>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen." width="500"/>
+      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen." width="480"/>
       <p align="center">Wutong Mountain, Shenzhen.</p>
     </td>
     <td align="center">
@@ -41,7 +41,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Monterey Bay Aquarium, California" width="450"/>
+      <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Monterey Bay Aquarium, California" width="480"/>
       <p align="center">Monterey Bay Aquarium, California.</p>
     </td>
     <td align="center">
@@ -121,7 +121,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/sc2.png?raw=true" alt="Santa Cruz" width="500"/>
+      <img src="https://pengzhouzp.github.io/files/sc2.png?raw=true" alt="Santa Cruz" width="450"/>
       <p align="center">I love everything about Santa Cruz.</p>
     </td>
     <td align="center">
@@ -131,7 +131,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/fu1.jpeg?raw=true" alt="福 calligraphy 1" width="500"/>
+      <img src="https://pengzhouzp.github.io/files/fu1.jpeg?raw=true" alt="福 calligraphy 1" width="480"/>
       <p align="center">福 calligraphy - Style 1.</p>
     </td>
     <td align="center">
@@ -141,7 +141,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://pengzhouzp.github.io/files/mounterybay.png?raw=true" alt="Monterey Bay and mountains" width="1200"/>
+      <img src="https://pengzhouzp.github.io/files/mounterybay.png?raw=true" alt="Monterey Bay and mountains" width="1000"/>
       <p align="center">A photo took on UCSC main campus, you can see the whole Monterey bay and mountains on the other side.</p>
     </td>
   </tr>
