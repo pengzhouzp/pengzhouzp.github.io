@@ -31,111 +31,111 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <table>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen." width="600"/>
+      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen." width="500"/>
       <p align="center">Wutong Mountain, Shenzhen.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/observatory.png?raw=true" alt="Shenzhen Observatory, Shenzhen." width="600"/>
+      <img src="https://pengzhouzp.github.io/files/observatory.png?raw=true" alt="Shenzhen Observatory, Shenzhen." width="500"/>
       <p align="center">Shenzhen Observatory, Shenzhen.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Monterey Bay Aquarium, California" width="560"/>
+      <img src="https://pengzhouzp.github.io/files/monterey.png?raw=true" alt="Monterey Bay Aquarium, California" width="450"/>
       <p align="center">Monterey Bay Aquarium, California.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/seal.png?raw=true" alt="Monterey Seal checking out Monterey Sea" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/seal.png?raw=true" alt="Monterey Seal checking out Monterey Sea" width="500"/>
       <p align="center">Monterey Seal checking out Monterey Sea, California.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/telluride.png?raw=true" alt="Telluride, Colorado" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/telluride.png?raw=true" alt="Telluride, Colorado" width="500"/>
       <p align="center">Telluride, Colorado!</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/light.png?raw=true" alt="When light wakes up the mountain" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/light.png?raw=true" alt="When light wakes up the mountain" width="500"/>
       <p align="center">I name this photo "When light wakes up the mountain". Telluride, Colorado.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/downtown.png?raw=true" alt="Downtown Telluride, Colorado" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/downtown.png?raw=true" alt="Downtown Telluride, Colorado" width="500"/>
       <p align="center">Downtown Telluride, Colorado.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/rainbow.png?raw=true" alt="Double rainbow" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/rainbow.png?raw=true" alt="Double rainbow" width="500"/>
       <p align="center">Check this double rainbow! Telluride, Colorado.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/poem1.JPG?raw=true" alt="Poem by Cao Cao" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/poem1.JPG?raw=true" alt="Poem by Cao Cao" width="500"/>
       <p align="center">My calligraphy captures a poem named《短歌行》by Chinese poet Cao Cao.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/poem2.png?raw=true" alt="Poem by Su Shi" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/poem2.png?raw=true" alt="Poem by Su Shi" width="500"/>
       <p align="center">My calligraphy captures a poem named《和子由渑池怀旧》by Chinese poet Su Shi.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/aspen1.png?raw=true" alt="Aspen, Colorado" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/aspen1.png?raw=true" alt="Aspen, Colorado" width="500"/>
       <p align="center">How ski & snowboarding resorts and snow mountains look in summer. Aspen, Colorado.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/aspen2.png?raw=true" alt="Aspen, Colorado" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/aspen2.png?raw=true" alt="Aspen, Colorado" width="500"/>
       <p align="center">Stunning view. Aspen, Colorado.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/cloudwall.png?raw=true" alt="Cloud wall" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/cloudwall.png?raw=true" alt="Cloud wall" width="500"/>
       <p align="center">A photo took near the UCSC marine campus. Watch the cloud wall!</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/tahoe.png?raw=true" alt="Lake Tahoe" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/tahoe.png?raw=true" alt="Lake Tahoe" width="500"/>
       <p align="center">Charming blue. Lake Tahoe.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/sunset.png?raw=true" alt="Sunset near UCSC marine campus" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/sunset.png?raw=true" alt="Sunset near UCSC marine campus" width="500"/>
       <p align="center">A photo took at sunset near the UCSC marine campus gate.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/sea.png?raw=true" alt="Santa Cruz Wharf" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/sea.png?raw=true" alt="Santa Cruz Wharf" width="500"/>
       <p align="center">A photo took at sunset at Santa Cruz wharf. I name this photo 'Half sea, half flame.'</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/cats.png?raw=true" alt="Ukulele and guitar" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/cats.png?raw=true" alt="Ukulele and guitar" width="500"/>
       <p align="center">I play ukulele and guitar pretty often because of the quarantine.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/food.png?raw=true" alt="Cooking healthy food" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/food.png?raw=true" alt="Cooking healthy food" width="500"/>
       <p align="center">I cook a lot and I am good at cooking healthy food now.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/sc.png?raw=true" alt="Santa Cruz" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/sc.png?raw=true" alt="Santa Cruz" width="500"/>
       <p align="center">I love everything about Santa Cruz.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/apple.png?raw=true" alt="Apple store design" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/apple.png?raw=true" alt="Apple store design" width="500"/>
       <p align="center">Novel design in the Apple store.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/fu1.jpeg?raw=true" alt="福 calligraphy 1" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/fu1.jpeg?raw=true" alt="福 calligraphy 1" width="500"/>
       <p align="center">福 calligraphy - Style 1.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/fu2.jpeg?raw=true" alt="福 calligraphy 2" width="600"/>
+      <img src="https://pengzhouzp.github.io/files/fu2.jpeg?raw=true" alt="福 calligraphy 2" width="500"/>
       <p align="center">福 calligraphy - Style 2.</p>
     </td>
   </tr>
