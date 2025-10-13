@@ -31,12 +31,12 @@ If any of my pictures and words can encourage and support you, it is my pleasure
 <table>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen" width="600"/>
-      <p align="center">Monterey Bay Aquarium, California.</p>
+      <img src="https://pengzhouzp.github.io/files/Wutongmoutain.png?raw=true" alt="Wutong Mountain, Shenzhen." width="600"/>
+      <p align="center">Wutong Mountain, Shenzhen.</p>
     </td>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/observatory.png?raw=true" alt="Shenzhen Observatory, Shenzhen" width="600"/>
-      <p align="center">Monterey Seal checking out Monterey Sea, California.</p>
+      <img src="https://pengzhouzp.github.io/files/observatory.png?raw=true" alt="Shenzhen Observatory, Shenzhen." width="600"/>
+      <p align="center">Shenzhen Observatory, Shenzhen.</p>
     </td>
   </tr>
   <tr>
