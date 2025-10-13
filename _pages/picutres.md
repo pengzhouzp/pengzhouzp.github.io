@@ -121,7 +121,7 @@ If any of my pictures and words can encourage and support you, it is my pleasure
   </tr>
   <tr>
     <td align="center">
-      <img src="https://pengzhouzp.github.io/files/sc.png?raw=true" alt="Santa Cruz" width="500"/>
+      <img src="https://pengzhouzp.github.io/files/sc2.png?raw=true" alt="Santa Cruz" width="500"/>
       <p align="center">I love everything about Santa Cruz.</p>
     </td>
     <td align="center">
