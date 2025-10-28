@@ -89,7 +89,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 <i>IEEE Journal on Emerging and Selected Topics in Circuits and Systems, Nov 2022.</i>
 
 <b>[Biomimetic Spiking Neural Network based on Monolayer 2D Synapse with Short-Term Plasticity for Auditory Brainstem Processing]()</b> <br> 
-Jieun Kim^, <b>Peng Zhou^</b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol, SravyamPulavarthi, Linfeng Sun, Heejun Yang, Woo-Jong You, Jin-Woo Han, Sung-Mo Kang, and Bai-Sun Kong.
+Jieun Kim<sup>＊</sup>, <b>Peng Zhou<sup>＊</sup></b>, Unbok Wi, Bo-Min Joo, Donguk Choi, Myeong-Lok Seol, SravyamPulavarthi, Linfeng Sun, Heejun Yang, Woo-Jong You, Jin-Woo Han, Sung-Mo Kang, and Bai-Sun Kong.
 <i>IEEE Transactions on Cognitive and Developmental Systems.</i>
 
 <b>[Backpropagating Errors Through Memristive Spiking Neural Networks](https://arxiv.org/abs/2203.01426)</b> <br>
