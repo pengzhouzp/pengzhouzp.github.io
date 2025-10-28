@@ -19,6 +19,7 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
+* [Sep. 05, 2025] Paper <b>["Spikingbrain technical report: Spiking brain-inspired large models"](https://arxiv.org/abs/2509.05276)</b>", is available in arXiv.
 * [Jan. 21, 2025] Paper <b>["Jumping Memory for Memristive Reservoir Computing"]()</b>", has been accepted for Lecture presentation at the 2025 IEEE International Symposium on Circuits and Systems.
 * [Dec. 15, 2024] Paper <b>["Deployment Pipeline from Rockpool to Xylo for Edge Computing"](https://arxiv.org/abs/2412.11047)</b>", is available in arXiv.
 * [Sep. 25, 2024] Paper <b>["Gated Slot Attention for Efficient Linear-Time Sequence Modeling"](https://arxiv.org/abs/2409.07146)</b> has been accepted by NeurIPS 2024.
@@ -67,6 +68,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Organizations
+* Track-chair, Review Committee of 2026 IEEE International Symposium on Circuits & Systems (ISCAS)
 * Program Committee member of 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Review Committee, Session Chair of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * NeuroAI Workshop Program Committee of 2024 Conference on Neural Information Processing Systems (NeurIPS/NIPS)
@@ -154,6 +156,7 @@ Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b
 * Neurocomputing
 * Nature npj Unconventional Computing
 * Memetic Computing
+* 2026 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2025 International Conference on Learning Representations (ICLR)
