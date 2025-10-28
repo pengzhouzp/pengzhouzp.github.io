@@ -19,12 +19,13 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
-* [Sep. 05, 2025] Paper <b>["Spikingbrain technical report: Spiking brain-inspired large models"](https://arxiv.org/abs/2509.05276)</b>", has been accepted by Neural Networks.
-* [Aug. 06, 2025] Paper <b>["Enhancing Robustness of Spiking Neural Networks Through Retina-Like Coding and Memory-Based Neurons"](https://www.sciencedirect.com/science/article/pii/S0893608025008317?ssrnid=5174012&dgcid=SSRN_redirect_SD)</b>", is available in arXiv.
-* [May. 25, 2025] Peng was invited as panelist to attend<b>["The 3rd IEEE Circuits and Systems Standard Activities Workshop"](https://ieee-cas.org/event/workshop/3rd-ieee-cas-standard-activities-workshop)</b>".
-* [Jan. 21, 2025] Paper <b>["Jumping Memory for Memristive Reservoir Computing"](https://ieeexplore.ieee.org/abstract/document/11044270)</b>", has been accepted for Lecture presentation at the 2025 IEEE International Symposium on Circuits and Systems.
+* [Oct. 25, 2025] Paper <b>["SRAM-based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks"]()</b>, has been submitted to 2026 IEEE International Symposium on Circuits and Systems.
+* [Sep. 05, 2025] Paper <b>["Spikingbrain technical report: Spiking brain-inspired large models"](https://arxiv.org/abs/2509.05276)</b>, is available in arXiv.
+* [Aug. 06, 2025] Paper <b>["Enhancing Robustness of Spiking Neural Networks Through Retina-Like Coding and Memory-Based Neurons"](https://www.sciencedirect.com/science/article/pii/S0893608025008317?ssrnid=5174012&dgcid=SSRN_redirect_SD)</b>, has been accepted by Neural Networks.
+* [May. 25, 2025] Peng was invited as a panelist to attend<b>["The 3rd IEEE Circuits and Systems Standard Activities Workshop"](https://ieee-cas.org/event/workshop/3rd-ieee-cas-standard-activities-workshop)</b> in London.
+* [Jan. 21, 2025] Paper <b>["Jumping Memory for Memristive Reservoir Computing"](https://ieeexplore.ieee.org/abstract/document/11044270)</b>, has been accepted for Lecture presentation at the 2025 IEEE International Symposium on Circuits and Systems.
 * [Dec. 18, 2024] Paper <b>["Threshold Neuron: A Brain-inspired Artificial Neuron for Efficient On-device Inference"](https://arxiv.org/abs/2412.13902)</b>", is available in arXiv.
-* [Dec. 15, 2024] Paper <b>["Deployment Pipeline from Rockpool to Xylo for Edge Computing"](https://arxiv.org/abs/2412.11047)</b>", is available in arXiv.
+* [Dec. 15, 2024] Paper <b>["Deployment Pipeline from Rockpool to Xylo for Edge Computing"](https://arxiv.org/abs/2412.11047)</b>, is available in arXiv.
 * [Sep. 25, 2024] Paper <b>["Gated Slot Attention for Efficient Linear-Time Sequence Modeling"](https://arxiv.org/abs/2409.07146)</b> has been accepted by NeurIPS 2024.
 * [Aug. 28, 2024] Paper <b>["Neuromorphic Intermediate Representation: A Unified Instruction Set for Interoperable Brain-Inspired Computing"](https://www.nature.com/articles/s41467-024-52259-9)</b> has been accepted by Nature Communications.
 * [Aug. 02, 2024] Paper <b>["Early: An Importance-Aware Early Firing and Exit for SNN Acceleration"](https://ieeexplore.ieee.org/abstract/document/10817954)</b> has been accepted by 2024 IEEE International Conference on Computer Design (IEEE ICCD).
