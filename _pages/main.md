@@ -19,7 +19,11 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
+* [Dec. 04, 2025] Paper <b>["Neuromorphic spike-based large language model"](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570)</b>, has been published in National Science Review.
+* [Oct. 31, 2025] Paper <b>["Memristive dynamical spiking neural networks with spatiotemporal heterogeneity"](https://pure.qub.ac.uk/en/publications/memristive-dynamical-spiking-neural-networks-with-spatiotemporal-/)</b>, has been accepted by 2025 International Conference on Machine Intelligence and Nature-InspireD Computing (MIND).
+Published in 2025 International Conference on Machine Intelligence and Nature-InspireD Computing (MIND), 2025
 * [Oct. 25, 2025] Paper <b>["SRAM-based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks"]()</b>, has been submitted to 2026 IEEE International Symposium on Circuits and Systems.
+* [Oct. 07, 2025] US Patent <b>["Divisive normalization method, device, audio feature extractor and a chip"](https://patents.google.com/patent/US12439203B2/en)</b>, has been granted.
 * [Sep. 05, 2025] Paper <b>["Spikingbrain technical report: Spiking brain-inspired large models"](https://arxiv.org/abs/2509.05276)</b>, is available in arXiv.
 * [Aug. 06, 2025] Paper <b>["Enhancing Robustness of Spiking Neural Networks Through Retina-Like Coding and Memory-Based Neurons"](https://www.sciencedirect.com/science/article/pii/S0893608025008317?ssrnid=5174012&dgcid=SSRN_redirect_SD)</b>, has been accepted by Neural Networks.
 * [May. 25, 2025] Peng was invited as a panelist to attend<b>["The 3rd IEEE Circuits and Systems Standard Activities Workshop"](https://ieee-cas.org/event/workshop/3rd-ieee-cas-standard-activities-workshop)</b> in London.
