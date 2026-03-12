@@ -159,6 +159,7 @@ Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b
 * IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * IEEE Transactions on Biomedical Circuits and Systems
+* Neural Networks
 * Neurocomputing
 * Nature npj Unconventional Computing
 * Memetic Computing
