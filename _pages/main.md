@@ -19,6 +19,7 @@ I also obtained working experience from Synsense, a neuromorphic startup that sp
 I am passionate about developing an interdisciplinary approach to unraveling the mysteries of the brain and brain-inspired computing, spanning electrical and computer engineering, cognitive science, neuroscience, philosophy, etc. I am also a fan of basketball, skateboarding, snowboarding, ukulele, cats, Chinese calligraphy, and meditation. Feel free to reach out to me!
 
 # News
+* [Jan. 21, 2026] Paper <b>["SRAM-Based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks"]()</b>, has been accepted by 2026 IEEE International Symposium on Circuits & Systems (IEEE ISCAS)
 * [Dec. 04, 2025] Paper <b>["Neuromorphic spike-based large language model"](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf551/8365570)</b>, has been published in National Science Review.
 * [Oct. 31, 2025] Paper <b>["Memristive dynamical spiking neural networks with spatiotemporal heterogeneity"](https://pure.qub.ac.uk/en/publications/memristive-dynamical-spiking-neural-networks-with-spatiotemporal-/)</b>, has been accepted by 2025 International Conference on Machine Intelligence and Nature-InspireD Computing (MIND).
 * [Oct. 25, 2025] Paper <b>["SRAM-based Compute-in-Memory Accelerator for Linear-decay Spiking Neural Networks"]()</b>, has been submitted to 2026 IEEE International Symposium on Circuits and Systems.
