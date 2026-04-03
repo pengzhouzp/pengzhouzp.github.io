@@ -156,13 +156,15 @@ Bo Peng, et al., <b>Peng Zhou</b>, et al.
 Huaqiu Zhang, Dylan Richard Muir, Saeid Haghighatshoar, Hao Liu, <b>Peng Zhou</b>, Ning Qiao.
 
 # Paper Review
-* IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Transactions on Circuits and Systems II: Express Briefs
 * IEEE Transactions on Biomedical Circuits and Systems
+* IEEE Transactions on Cognitive and Developmental Systems
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems
 * Neural Networks
-* Neurocomputing
 * Nature npj Unconventional Computing
+* Artificial Intelligence Review
+* Neurocomputing
 * Memetic Computing
 * 2026 IEEE International Symposium on Circuits & Systems (ISCAS)
 * 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
