@@ -75,6 +75,7 @@ I am passionate about developing an interdisciplinary approach to unraveling the
 * IEEE CASS Cellular Nanoscale Networks and Memristor Array Computing (CNN-MAC) Technical Committee member
 
 # Conference Organizations
+* Technical Program Committee member of 2026 IEEE 8th International Conference on Artificial Intelligence Circuits and Systems (AICAS)
 * Track-chair, Review Committee of 2026 IEEE International Symposium on Circuits & Systems (ISCAS)
 * Program Committee member of 2025 IEEE/ACM International Conference on Neuromorphic Systems (ICONS)
 * Review Committee, Session Chair of 2025 IEEE International Symposium on Circuits & Systems (ISCAS)
